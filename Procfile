@@ -1,0 +1,1 @@
+web: gunicorn diwali_wishesh.wsgi --log-file -
